@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 22 СамРабота ПараллПрограмм и библиотека TPL", "Lab 22 СамРабота ПараллПрограмм и библиотека TPL.csproj", "{06FDD4A3-3652-48FA-BEA4-26F135192CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FDD4A3-3652-48FA-BEA4-26F135192CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FDD4A3-3652-48FA-BEA4-26F135192CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FDD4A3-3652-48FA-BEA4-26F135192CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FDD4A3-3652-48FA-BEA4-26F135192CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6928F56-7614-42A3-B0BE-439FA7D50580}
+	EndGlobalSection
+EndGlobal
